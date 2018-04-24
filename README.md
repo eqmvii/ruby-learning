@@ -56,3 +56,4 @@ RubyMine is good and uses rails
 # strings
 
 * .strip gets rid of white space. Note that it returns a new string rather than modifying in place. Good example of ! - you can use that to modify in place.
+
